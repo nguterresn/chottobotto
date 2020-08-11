@@ -1,5 +1,9 @@
 # chottobotto
-open source bot for your website
+open source bot helper for your website
+
+![Captura de ecrã 2020-08-11, às 21 52 49](https://user-images.githubusercontent.com/38976366/89947869-09838d00-dc1d-11ea-921a-b2f219e4baa8.png)
+![Captura de ecrã 2020-08-11, às 21 54 07](https://user-images.githubusercontent.com/38976366/89947968-346de100-dc1d-11ea-8ec1-f54289935aff.png)
+
 
 ### Add files
 #### import js file to hmtl
