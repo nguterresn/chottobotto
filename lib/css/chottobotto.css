@@ -12,11 +12,35 @@ body {
     width:          70%;
     color:         white;
     display:       inline-block;
-    font-size:      13px;
+    font-size:      14px;
     font:          "Helvetica Neue";
     text-align:    center;
     border: 0em;
     cursor: pointer;
+}
+
+.btn-back {
+    background:    gray;
+    border-radius: 1000px;
+    padding:       5px;
+    width:          30%;
+    color:         white;
+    display:       inline-block;
+    font-size:      10px;
+    font:          "Helvetica Neue";
+    text-align:    center;
+    border: 0em;
+    cursor: pointer;
+}
+
+.text-botto {
+    text-align:    left;
+    font-family:     "Roboto";
+    font-size:      13px;
+    padding-right: 10%;
+    padding-left: 10%;
+    line-height: 1.6;
+    color: black;
 }
 
 
