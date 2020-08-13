@@ -1,22 +1,33 @@
 .btn-help {
     border: 0;
-    padding: 15px;
+    padding: 10px;
+    display: inline-block;
     background-color: transparent;
+}
+
+.dragging {
+    opacity: .5;
+}
+
+#chottobotto {
+    /*border-color: black;*/
+    /*border-style: solid;*/
 }
 
 .btn-botto {
     background:    #3498db;
     border-radius: 1000px;
     padding:       10px;
-    width:          70%;
+    width:          60%;
     color:         white;
     display:       inline-block;
     font-size:      14px;
-    font:          "Helvetica Neue";
-    text-align:    center;
+    font-family:     "Helvetica Neue";
     border: 0em;
     cursor: pointer;
     box-shadow: "0 0.5rem 1rem rgba(0, 0, 0, 0.15)";
+    -moz-box-shadow: "0 0.5rem 1rem rgba(0, 0, 0, 0.15)";
+    -webkit-box-shadow: "0 0.5rem 1rem rgba(0, 0, 0, 0.15)";
     margin-bottom: 1rem;
 }
 
@@ -28,7 +39,7 @@
     color:         white;
     display:       inline-block;
     font-size:      10px;
-    font:          "Helvetica Neue";
+    font-family:          "Helvetica Neue";
     text-align:    center;
     border: 0em;
     cursor: pointer;
@@ -46,3 +57,7 @@
 }
 
 
+  
+  
+  
+  
