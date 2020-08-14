@@ -7,9 +7,10 @@ open source bot helper for your website
 
 ### Add files
 #### import js file to hmtl
+On ES6 Modules:
 
 ```
-<link rel="stylesheet" href="chottobotto.css">
+import Chottobotto from './main.js'
 ```
 
 #### import css file to html
