@@ -3,15 +3,9 @@
     padding: 10px;
     display: inline-block;
     background-color: transparent;
-}
 
-.dragging {
-    opacity: .5;
-}
+  
 
-#chottobotto {
-    /*border-color: black;*/
-    /*border-style: solid;*/
 }
 
 .btn-botto {
