@@ -3,9 +3,11 @@
     padding: 10px;
     display: inline-block;
     background-color: transparent;
+}
 
-  
-
+#chottobotto {
+    border-style: solid;
+    border-color: black;
 }
 
 .btn-botto {
