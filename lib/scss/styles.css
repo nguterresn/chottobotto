@@ -1,0 +1,74 @@
+#chottobotto {
+  z-index: 99;
+  border-style: solid;
+  border-color: black;
+  font-family: 'Public Sans', sans-serif;
+  text-align: center;
+  position: fixed;
+  font-size: 1rem;
+}
+
+#btn_bot {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  border: 0;
+  padding: 15px;
+  width: auto;
+  height: auto;
+  background-color: transparent;
+  touch-action: none !important;
+  -ms-touch-action: none !important;
+}
+
+.notouch {
+  touch-action: none !important;
+  -ms-touch-action: none !important;
+}
+
+#window {
+  position: absolute;
+}
+
+.btn-botto {
+  background: #3498db;
+  border-radius: 1000px;
+  padding: 10px;
+  width: 60%;
+  color: white;
+  display: inline-block;
+  font-size: 14px;
+  font-family: "Helvetica Neue";
+  border: 0em;
+  cursor: pointer;
+  box-shadow: "0 0.5rem 1rem rgba(0, 0, 0, 0.15)";
+  -moz-box-shadow: "0 0.5rem 1rem rgba(0, 0, 0, 0.15)";
+  -webkit-box-shadow: "0 0.5rem 1rem rgba(0, 0, 0, 0.15)";
+  margin-bottom: 1rem;
+}
+
+#btn_back {
+  background: gray;
+  border-radius: 1000px;
+  padding: 5px;
+  width: 30%;
+  color: white;
+  display: inline-block;
+  font-size: 10px;
+  font-family: "Helvetica Neue";
+  text-align: center;
+  border: 0em;
+  cursor: pointer;
+  margin-bottom: 1rem;
+}
+
+.text-botto {
+  text-align: left;
+  font-family: "Helvetica";
+  font-size: 13px;
+  padding-right: 10%;
+  padding-left: 10%;
+  line-height: 1.6;
+  color: black;
+}
+/*# sourceMappingURL=styles.css.map */

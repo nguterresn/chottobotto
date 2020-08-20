@@ -1,18 +1,6 @@
-.btn-help {
-    border: 0;
-    padding: 15px;
-    display: inline-block;
-    background-color: transparent;
-}
+#window {
+    position: absolute;
 
-#chottobotto {
-    border-style: solid;
-    border-color: black;
-}
-
-.notouch {
-    touch-action: none !important;
-    -ms-touch-action: none !important;
 }
 
 .btn-botto {
@@ -32,7 +20,7 @@
     margin-bottom: 1rem;
 }
 
-.btn-back {
+#btn_back {
     background:    gray;
     border-radius: 1000px;
     padding:       5px;
@@ -56,9 +44,3 @@
     line-height: 1.6;
     color: black;
 }
-
-
-  
-  
-  
-  
